@@ -28,6 +28,9 @@ body{
 .seat.selected{
     background-color: rgb(236, 205, 26);
 }
+.seat.selectedbottom{
+    background-color: rgb(236, 205, 26);
+}
 .seat.reserved{
     background-color: white;
 }
